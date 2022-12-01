@@ -13,4 +13,6 @@ Windows:
 
 Дальше надеюсь разберётесь:) 
 
+Команда получения токена вашего дс: (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
+
 Создано GamerPTS! В GitHUB: https://github.com/GamerPTS199/discordservercloner
